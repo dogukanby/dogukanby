@@ -3,7 +3,8 @@
 CS student at **Marmara University**, interested in **cloud systems** and **app design** — I like understanding how things actually break and recover, not just how they're supposed to work.
 
 - 🔭 Currently building **Airsoft** — a mobile app for organizing and playing airsoft in Turkey: finding fields, setting up matches, player profiles, and a marketplace for gear.
-- ☁️ Into cloud architecture — IAM, distributed consistency, failover, the stuff that only matters when something goes wrong.
+- 🏀 Also built **MacaGel** — an app that unites people who want to play football, basketball, or tennis, with player ratings and FIFA-style stats.
+- ☁️ On the cloud side, more interested in the operations side than the theory — spinning up servers for apps, keeping them under control, and making sure they can get through the day.
 - 📱 Design and ship mobile app experiences end-to-end, from UI to backend.
 
 ---
